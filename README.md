@@ -1,6 +1,6 @@
 # AngularCdr 📁
 
-Rules to linters (Angular and TypeScript), prettier, husky and commitlint
+How to use ChangeDetection in Angular
 
 - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 ```bash

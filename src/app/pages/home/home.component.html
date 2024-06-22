@@ -1,6 +1,9 @@
 <div>
-  <h1>ROOT</h1>
+  <h1>PARENT (OnPush)</h1>
   <small>Changes detected: {{detect}} {{detect === 1 ? 'time' : 'times'}}</small>
   <button (click)="submit()">Clicks: {{ click }}</button>
-  <router-outlet />
+  <cdr-search />
+  <cdr-filter />
+  <cdr-sort />
+  <cdr-list />
 </div>
